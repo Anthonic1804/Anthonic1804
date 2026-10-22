@@ -9,8 +9,7 @@ Soy un desarrollador de El Salvador (he/him), apasionado por el aprendizaje cont
 - 🎓 Actualmente soy **Estudiante de Ingeniería en Sistemas**.
 - 📱 Constantemente en **autoaprendizaje de desarrollo móvil** (especialmente Android y Kotlin).
 - 💻 También trabajo en **Desarrollo Web** utilizando PHP, JavaScript, CSS y C#.
-- 💼 Actualmente me desempeño como **Freelancer Developer Jr**.
-- 🌐 Puedes ver más sobre mis servicios y proyectos en mi sitio web: [aberaservtech.netlify.app](https://aberaservtech.netlify.app/)
+- 💼 Actualmente me desempeño como **Developer Jr en Sismantec**.
 
 ### 🛠️ Tecnologías y Lenguajes
 
